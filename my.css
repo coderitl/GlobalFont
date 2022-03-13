@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'IBM-Courier-Bold,JackInput';
-    src: url('https://cdn.jsdelivr.net/gh/lovobin/globalfont@v0.0.2/JackInput.ttf'),
-        url('https://cdn.jsdelivr.net/gh/lovobin/globalfont@v0.0.2/IBM-Courier-Bold');
+    src: url('https://cdn.jsdelivr.net/gh/lovobin/globalfont@v0.0.3/JackInput.ttf'),
+        url('https://cdn.jsdelivr.net/gh/lovobin/globalfont@v0.0.3/IBM-Courier-Bold.otf');
 }
 
 body {
